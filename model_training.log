@@ -1,0 +1,14 @@
+[2022-08-15 14:31:48,479][bentoml.sklearn][WARNING] - The "bentoml.sklearn.save" method is being deprecated. Use "bentoml.sklearn.save_model" instead
+[2022-08-15 14:31:48,485][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model customer_segmentation_kmeans.
+[2022-08-15 14:31:48,507][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:kkdv67a4ns22q2pj")
+[2022-08-15 14:32:18,444][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model customer_segmentation_kmeans.
+[2022-08-15 14:32:18,472][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:mrrokla4ns22q2pj")
+[2022-08-15 15:48:31,754][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model customer_segmentation_kmeans.
+[2022-08-15 15:48:31,771][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:bje375q4o6fvqaav")
+[2022-08-15 15:54:17,589][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model customer_segmentation_kmeans.
+[2022-08-15 15:54:17,612][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:3bv7ohq4o6pteaav")
+[2022-08-15 15:55:50,129][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model customer_segmentation_kmeans.
+[2022-08-15 15:55:50,146][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:b6kai6q4pcjsgaav")
+[2022-08-15 16:39:45,091][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model customer_segmentation_kmeans.
+[2022-08-15 16:39:45,109][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:girur5q4p2b5oaav")
+[2022-08-15 17:31:06,990][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="customer_segmentation_kmeans:l4kfqha4qw65waav")

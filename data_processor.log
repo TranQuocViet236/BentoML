@@ -1,0 +1,35 @@
+[2022-08-15 14:25:40,302][bentoml.sklearn][WARNING] - The "bentoml.sklearn.save" method is being deprecated. Use "bentoml.sklearn.save_model" instead
+[2022-08-15 14:26:50,767][bentoml.sklearn][WARNING] - The "bentoml.sklearn.save" method is being deprecated. Use "bentoml.sklearn.save_model" instead
+[2022-08-15 14:26:50,768][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 14:26:50,787][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:uejpruq4no22q2pj")
+[2022-08-15 14:26:52,564][bentoml.sklearn][WARNING] - The "bentoml.sklearn.save" method is being deprecated. Use "bentoml.sklearn.save_model" instead
+[2022-08-15 14:26:52,566][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 14:26:52,573][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:uirysoq4no22q2pj")
+[2022-08-15 14:28:33,060][bentoml.sklearn][WARNING] - The "bentoml.sklearn.save" method is being deprecated. Use "bentoml.sklearn.save_model" instead
+[2022-08-15 14:28:33,061][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 14:28:33,083][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:3yfxv7a4no22q2pj")
+[2022-08-15 14:28:34,099][bentoml.sklearn][WARNING] - The "bentoml.sklearn.save" method is being deprecated. Use "bentoml.sklearn.save_model" instead
+[2022-08-15 14:28:34,101][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 14:28:34,113][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:3yfxv7q4no22q2pj")
+[2022-08-15 14:30:35,095][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 14:30:35,118][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:e3eiwsq4ns22q2pj")
+[2022-08-15 14:30:36,125][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 14:30:36,138][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:e3eiwta4ns22q2pj")
+[2022-08-15 15:13:03,150][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 15:13:03,172][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:cwfkbyq4ok22q2pj")
+[2022-08-15 15:13:04,067][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 15:13:04,078][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:cwfkbza4ok22q2pj")
+[2022-08-15 15:55:27,382][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 15:55:27,397][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:aicw3rq4pcdigaav")
+[2022-08-15 15:55:28,060][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 15:55:28,068][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:ajvzy4q4pcdigaav")
+[2022-08-15 16:38:40,987][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 16:38:41,021][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:bpxvqfa4p2w6eaav")
+[2022-08-15 16:38:41,836][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 16:38:41,859][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:brxhusq4p2w6eaav")
+[2022-08-15 16:39:27,588][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model scaler.
+[2022-08-15 16:39:27,605][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:e62ip7q4p267eaav")
+[2022-08-15 16:39:28,272][bentoml._internal.frameworks.sklearn][INFO] - Using the default model signature for sklearn ({'predict': {'batchable': False}}) for model pca.
+[2022-08-15 16:39:28,291][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:fan7cfa4p267eaav")
+[2022-08-15 17:30:45,843][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:kj4oqna4qwcoiaav")
+[2022-08-15 17:30:46,643][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:klznmca4qwcoiaav")
