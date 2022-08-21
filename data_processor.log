@@ -33,3 +33,5 @@
 [2022-08-15 16:39:28,291][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:fan7cfa4p267eaav")
 [2022-08-15 17:30:45,843][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:kj4oqna4qwcoiaav")
 [2022-08-15 17:30:46,643][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:klznmca4qwcoiaav")
+[2022-08-21 17:47:46,871][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="scaler:wgfienbbh2zhyaav")
+[2022-08-21 17:47:48,422][bentoml._internal.models.model][INFO] - Successfully saved Model(tag="pca:wj3sw4bbh2zhyaav")

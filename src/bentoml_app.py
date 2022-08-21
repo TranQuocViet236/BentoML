@@ -6,10 +6,10 @@ from pydantic import BaseModel
 
 
 # Load transformers and model
-scaler = bentoml.sklearn.load_runner("scaler:latest", function_name="transform")
-pca = bentoml.sklearn.load_runner("pca:latest", function_name="transform")
+scaler = bentoml.sklearn.get("scaler:latest").to_runner()
+pca = bentoml.sklearn.get("pca:latest").to_runner()
 
-model = bentoml.sklearn.load_runner("customer_segmentation_kmeans:latest")
+model = bentoml.sklearn.get("customer_segmentation_kmeans:latest").to_runner()
 
 service = bentoml.Service("customer_segmentation_kmeans", runners=[scaler, pca, model])
 
