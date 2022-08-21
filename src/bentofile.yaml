@@ -1,0 +1,18 @@
+service: "bentoml_app:service" # Same as the argument passed to 'bentoml serve'
+labels:
+  owner: ai.tqviet
+  stage: dev
+include:
+  - "*.py" # A pattern for matching which files to include in the bento
+python:
+  packages: #additional pip packages requires by the service
+    - hydra ~= 2.5
+    - scikit-learn
+    - pandas
+    - bentoml
+    - omegaconf
+    - plotly
+    - numpy
+    - yellowbrick
+    - matplotlib
+    - pydantic
